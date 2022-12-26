@@ -1,7 +1,6 @@
 import requests
 from bs4 import BeautifulSoup
 from fake_headers import Headers
-from pprint import pprint
 import json
 
 HOST = "https://spb.hh.ru/search/vacancy?text=python&area=1&area=2&page="
